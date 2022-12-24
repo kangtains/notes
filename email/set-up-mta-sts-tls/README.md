@@ -72,3 +72,6 @@ Once this is done, ensure the MTA-STS policy file is accessible by navigating to
 ```
 https://mta-sts.your-domain/.well-known/mta-sts.txt
 ```
+
+## Source
+* [dmarcly.com](https://dmarcly.com/blog/how-to-set-up-mta-sts-and-tls-reporting)
