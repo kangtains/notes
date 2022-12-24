@@ -4,9 +4,9 @@ In order to set up MTA-STS, first you need to create a ``TXT record`` on ``_mta-
 
 ```
 _mta-sts.your-domain IN TXT "v=STSv1; id=12345678"
-In the record value v=STSv1; id=12345678 above:
 ```
 
+In the record value v=STSv1; id=12345678 above:
 * the ``v`` tag must be ``STSv1``, the protocol literal;
 * the ``id``` tag contains an alphanumeric string up to 32 alphanumerics long, used to track policy (see below) updates; it must uniquely identify a given instance of a policy, such that senders can determine when the policy has been updated by comparing to the id of a previously seen policy.
 
