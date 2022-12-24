@@ -14,39 +14,39 @@ Oleh karena itulah AutoCAD memiliki banyak komunitas dan sumber-sumber pembelaja
 
 Sudah 31 versi AutoCAD yang dirilis sampai saat ini dimulai dari AutoCAD Version 1.0 dan terus mengalami penyempurnaan sampai dengan Versi terakhir sampai artikel ini dipublish yaitu AutoCAD 2017. Berikut ini table semua versi AutoCAD yang sudah dirilis:
 
-|Nama Official          | Versi | Waktu Rilis |
-|-----------------------|-------|-------------|
-|AutoCAD Version 1.0    | 1	Desember 1982
-AutoCAD Version 1.2	    | 2	April 83
-AutoCAD Version 1.3     | 3	Agustus 1983
-AutoCAD Version 1.4	    | 4	Oktober 1983
-AutoCAD Version 2.0	    | 5	Oktober 1984
-AutoCAD Version 2.1	    | 6	Mei 1985
-AutoCAD Version 2.5	    | 7	Juni 1986
-AutoCAD Version 2.6	    | 8	April 1987
-AutoCAD Release 9	    | 9	September 1987
-AutoCAD Release 10	    | 10	Oktober 1988
-AutoCAD Release 11	    | 11	Oktober 1990
-AutoCAD Release 12	    | 12	Juni 1992
-AutoCAD Release 13	    | 13	November 1994
-AutoCAD Release 14	    | 14	Februari 1997
-AutoCAD 2000	        | 15	Maret 1999
-AutoCAD 2000i	        | 16	Juli 2000
-AutoCAD 2002	        | 17	Juni 2001
-AutoCAD 2004	        | 18	Maret 2003
-AutoCAD 2005	        | 19	Maret 2004
-AutoCAD 2006	        | 20	Maret 2005
-AutoCAD 2007	        | 21	Maret 2006
-AutoCAD 2008	        | 22	Maret 2007
-AutoCAD 2009	        | 23	Maret 2008
-AutoCAD 2010	        | 24	Maret 2009
-AutoCAD 2011	        | 25	Maret 2010
-AutoCAD 2012	        | 26	Maret 2011
-AutoCAD 2013	        | 27	Maret 2012
-AutoCAD 2014	        | 28	Maret 2013
-AutoCAD 2015	        | 29	Maret 2014
-AutoCAD 2016	        | 30	Maret 2015
-AutoCAD 2017	        | 31	Maret 2016
+|Nama Official          | Versi | Waktu Rilis       |
+|-----------------------|-------|-------------------|
+|AutoCAD Version 1.0    | 1	    | Desember 1982     |
+|AutoCAD Version 1.2    | 2	    | April 83          |
+|AutoCAD Version 1.3    | 3	    | Agustus 1983      |
+|AutoCAD Version 1.4    | 4	    | Oktober 1983      |
+|AutoCAD Version 2.0    | 5	    | Oktober 1984      |  
+|AutoCAD Version 2.1    | 6	    | Mei 1985          |
+|AutoCAD Version 2.5    | 7	    | Juni 1986         |
+|AutoCAD Version 2.6    | 8	    | April 1987        |
+|AutoCAD Release 9	    | 9	    | September 1987    |
+|AutoCAD Release 10	    | 10	| Oktober 1988      |
+|AutoCAD Release 11	    | 11	| Oktober 1990      |
+|AutoCAD Release 12	    | 12	| Juni 1992         |
+|AutoCAD Release 13	    | 13	| November 1994     |
+|AutoCAD Release 14	    | 14	| Februari 1997     |
+|AutoCAD 2000	        | 15	| Maret 1999        |
+|AutoCAD 2000i	        | 16	| Juli 2000         |
+|AutoCAD 2002	        | 17	| Juni 2001         |
+|AutoCAD 2004	        | 18	| Maret 2003        |
+|AutoCAD 2005	        | 19	| Maret 2004        |
+|AutoCAD 2006	        | 20	| Maret 2005        |
+|AutoCAD 2007	        | 21	| Maret 2006        |
+|AutoCAD 2008	        | 22	| Maret 2007        |
+|AutoCAD 2009	        | 23	| Maret 2008        |
+|AutoCAD 2010	        | 24	| Maret 2009        |
+|AutoCAD 2011	        | 25	| Maret 2010        |
+|AutoCAD 2012	        | 26	| Maret 2011        |
+|AutoCAD 2013	        | 27	| Maret 2012        |
+|AutoCAD 2014	        | 28	| Maret 2013        |
+|AutoCAD 2015	        | 29	| Maret 2014        |
+|AutoCAD 2016	        | 30	| Maret 2015        |
+|AutoCAD 2017	        | 31	| Maret 2016        |
 
 ## Varian produk
 ### AutoCAD
