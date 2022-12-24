@@ -128,3 +128,4 @@ makepkg -si
 
 ### Source
 * [ubuntupit.com](https://www.ubuntupit.com/how-to-install-and-set-up-1password-on-linux-desktop/)
+* [fossbytes.com](https://fossbytes.com/how-to-install-1password-on-linux/)
