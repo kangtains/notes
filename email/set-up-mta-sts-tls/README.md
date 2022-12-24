@@ -73,5 +73,14 @@ Once this is done, ensure the MTA-STS policy file is accessible by navigating to
 https://mta-sts.your-domain/.well-known/mta-sts.txt
 ```
 
+## Contoh Record
+
+|Type   | Name          | Content                       |
+|-------|---------------|-------------------------------|
+|A      | mta-sts       | IP Address                    |
+|TXT    | _mta-sts      | v=STSv1; id=20221223101448    |
+|TXT    | _smtp._tls    | v=TLSRPTv1; rua=mailto:tls-report@contoh.com,mailto:mts-sts@contoh.com|
+|TXT    | _smtp._tls    | v=TLSRPTv1; rua=mailto:tls-report@contoh.com,mailto:mts-sts@contoh.com|
+
 ## Source
 * [dmarcly.com](https://dmarcly.com/blog/how-to-set-up-mta-sts-and-tls-reporting)
