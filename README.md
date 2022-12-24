@@ -10,3 +10,6 @@ Hanya sebuah catatan ku.
 
 ## Software
 * [Auto CAD](/software/auto-cad/README.md)
+
+## Email
+* [Set Up MTA-STS Email](/email/set-up-mta-sts-tls/README.md)
