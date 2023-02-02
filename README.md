@@ -13,3 +13,6 @@ Hanya sebuah catatan ku.
 
 ## Email
 * [Set Up MTA-STS Email](/email/set-up-mta-sts-tls/README.md)
+
+## Tutorial
+* [Enkripsi File Ubuntu](/tutorial/encrypt-file-ubuntu/README.md)
